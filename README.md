@@ -54,7 +54,7 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 
 IMAGES:
 
-![image](/images/img1.png)
+![Alt text](images/img1.PNG?raw=true "Image 1")
 
 ![image](/images/img2.png)
 
