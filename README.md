@@ -56,8 +56,8 @@ IMAGES:
 
 ![Alt text](images/img1.PNG?raw=true "Image 1")
 
-![image](/images/img2.png)
+![Alt text](images/img2.PNG?raw=true "Image 2")
 
-![image](/images/img3.png)
+![Alt text](images/img3.PNG?raw=true "Image 3")
 
-![image](/images/img4.png)
+![Alt text](images/img4.PNG?raw=true "Image 4")
