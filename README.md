@@ -54,10 +54,10 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 
 IMAGES:
 
-![Alt text](/images/img1.png?raw=true)
+![Alt text](/images/img1.png)
 
-![Alt text](/images/img2.png?raw=true)
+![Alt text](/images/img2.png)
 
-![Alt text](/images/img3.png?raw=true)
+![Alt text](/images/img3.png)
 
-![Alt text](/images/img4.png?raw=true)
+![Alt text](/images/img4.png)
